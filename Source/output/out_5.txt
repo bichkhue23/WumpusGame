@@ -1,0 +1,851 @@
+================================
+Turn Left
+Move Foward: (7, 5)
+Score: -10
+================================
+Turn Left
+Move Foward: (6, 5)
+Score: -20
+Perceive Breeze: (6, 5)
+Inference Pit: (5, 5)
+Inference not Pit
+Inference Pit: (6, 6)
+Inference not Pit
+Inference Pit: (6, 4)
+Inference not Pit
+================================
+Turn Right
+Move Foward: (7, 5)
+Score: -30
+================================
+Turn Up
+Move Foward: (7, 6)
+Score: -40
+Grab Gold
+Score: 60
+Perceive Breeze: (7, 6)
+Inference Pit: (6, 6)
+Inference not Pit
+Inference Pit: (8, 6)
+Inference not Pit
+Detect no Pit: (8, 6)
+Inference Pit: (7, 7)
+Inference not Pit
+================================
+Turn Right
+Move Foward: (8, 6)
+Score: 50
+================================
+Turn Right
+Move Foward: (9, 6)
+Score: 40
+================================
+Turn Right
+Move Foward: (10, 6)
+Score: 30
+================================
+Turn Up
+Move Foward: (10, 7)
+Score: 20
+Perceive Breeze: (10, 7)
+Inference Pit: (9, 7)
+Inference not Pit
+Detect no Pit: (9, 7)
+Inference Pit: (10, 8)
+Detect Pit: (10, 8)
+================================
+Turn Left
+Move Foward: (9, 7)
+Score: 10
+Perceive Breeze: (9, 7)
+Inference Pit: (8, 7)
+Inference not Pit
+Detect no Pit: (8, 7)
+Inference Pit: (9, 8)
+Detect Pit: (9, 8)
+================================
+Turn Left
+Move Foward: (8, 7)
+Score: 0
+================================
+Turn Left
+Move Foward: (7, 7)
+Score: -10
+Grab Gold
+Score: 90
+================================
+Turn Left
+Move Foward: (6, 7)
+Score: 80
+Perceive Breeze: (6, 7)
+Inference Pit: (5, 7)
+Inference not Pit
+Inference Pit: (6, 8)
+Inference not Pit
+Inference Pit: (6, 6)
+Detect Pit: (6, 6)
+================================
+Turn Right
+Move Foward: (7, 7)
+Score: 70
+================================
+Turn Up
+Move Foward: (7, 8)
+Score: 60
+================================
+Turn Left
+Move Foward: (6, 8)
+Score: 50
+Perceive Stench: (6, 8)
+Inference Wumpus: (5, 8)
+Inference not Wumpus: (5, 8)
+Inference Wumpus: (6, 9)
+Inference not Wumpus: (6, 9)
+================================
+Turn Left
+Shoot Arrow: (5, 8)
+Score: -50
+================================
+Turn Up
+Shoot Arrow: (6, 9)
+Score: -150
+Kill Wumpus: (6, 9)
+================================
+Turn Up
+Move Foward: (6, 9)
+Score: -160
+Perceive Breeze: (6, 9)
+Inference Pit: (5, 9)
+Inference not Pit
+Inference Pit: (7, 9)
+Inference not Pit
+Detect no Pit: (7, 9)
+Inference Pit: (6, 10)
+Inference not Pit
+================================
+Turn Right
+Move Foward: (7, 9)
+Score: -170
+Perceive Stench: (7, 9)
+Inference Wumpus: (8, 9)
+Inference not Wumpus: (8, 9)
+Inference Wumpus: (7, 10)
+Inference not Wumpus: (7, 10)
+================================
+Turn Right
+Shoot Arrow: (8, 9)
+Score: -270
+Kill Wumpus: (8, 9)
+================================
+Turn Right
+Move Foward: (8, 9)
+Score: -280
+================================
+Turn Right
+Move Foward: (9, 9)
+Score: -290
+Perceive Breeze: (9, 9)
+Inference Pit: (10, 9)
+Inference not Pit
+Inference Pit: (9, 10)
+Inference not Pit
+================================
+Turn Left
+Move Foward: (8, 9)
+Score: -300
+================================
+Turn Up
+Move Foward: (8, 10)
+Score: -310
+Perceive Breeze: (8, 10)
+Inference Pit: (7, 10)
+Inference not Pit
+Detect no Pit: (7, 10)
+Inference Pit: (9, 10)
+Detect Pit: (9, 10)
+================================
+Turn Left
+Move Foward: (7, 10)
+Score: -320
+================================
+Turn Left
+Move Foward: (6, 10)
+Score: -330
+Grab Gold
+Score: -230
+================================
+Turn Left
+Move Foward: (5, 10)
+Score: -240
+Grab Gold
+Score: -140
+Perceive Breeze: (5, 10)
+Inference Pit: (4, 10)
+Inference not Pit
+Inference Pit: (5, 9)
+Detect Pit: (5, 9)
+================================
+Turn Right
+Move Foward: (6, 10)
+Score: -150
+================================
+Turn Right
+Move Foward: (7, 10)
+Score: -160
+================================
+Turn Right
+Move Foward: (8, 10)
+Score: -170
+================================
+Turn Down
+Move Foward: (8, 9)
+Score: -180
+================================
+Turn Down
+Move Foward: (8, 8)
+Score: -190
+Perceive Breeze: (8, 8)
+================================
+Turn Up
+Move Foward: (8, 9)
+Score: -200
+================================
+Turn Left
+Move Foward: (7, 9)
+Score: -210
+================================
+Turn Left
+Move Foward: (6, 9)
+Score: -220
+================================
+Turn Down
+Move Foward: (6, 8)
+Score: -230
+================================
+Turn Left
+Move Foward: (5, 8)
+Score: -240
+Perceive Breeze: (5, 8)
+Inference Pit: (4, 8)
+Inference not Pit
+Inference Pit: (5, 7)
+Inference not Pit
+================================
+Turn Right
+Move Foward: (6, 8)
+Score: -250
+================================
+Turn Right
+Move Foward: (7, 8)
+Score: -260
+================================
+Turn Down
+Move Foward: (7, 7)
+Score: -270
+================================
+Turn Right
+Move Foward: (8, 7)
+Score: -280
+================================
+Turn Right
+Move Foward: (9, 7)
+Score: -290
+================================
+Turn Right
+Move Foward: (10, 7)
+Score: -300
+================================
+Turn Down
+Move Foward: (10, 6)
+Score: -310
+================================
+Turn Down
+Move Foward: (10, 5)
+Score: -320
+================================
+Turn Left
+Move Foward: (9, 5)
+Score: -330
+================================
+Turn Down
+Move Foward: (9, 4)
+Score: -340
+================================
+Turn Left
+Move Foward: (8, 4)
+Score: -350
+================================
+Turn Left
+Move Foward: (7, 4)
+Score: -360
+Perceive Stench: (7, 4)
+Inference Wumpus: (6, 4)
+Inference not Wumpus: (6, 4)
+Detect no Wumpus: (6, 4)
+Inference Wumpus: (7, 3)
+Detect Wumpus: (7, 3)
+Shoot Arrow
+Score: -460
+Kill Wumpus: (7, 3)
+================================
+Turn Left
+Move Foward: (6, 4)
+Score: -470
+================================
+Turn Left
+Move Foward: (5, 4)
+Score: -480
+================================
+Turn Left
+Move Foward: (4, 4)
+Score: -490
+Grab Gold
+Score: -390
+Perceive Stench: (4, 4)
+Inference Wumpus: (3, 4)
+Inference not Wumpus: (3, 4)
+Inference Wumpus: (4, 5)
+Inference not Wumpus: (4, 5)
+Inference Wumpus: (4, 3)
+Inference not Wumpus: (4, 3)
+================================
+Turn Left
+Shoot Arrow: (3, 4)
+Score: -490
+================================
+Turn Up
+Shoot Arrow: (4, 5)
+Score: -590
+Kill Wumpus: (4, 5)
+================================
+Turn Up
+Move Foward: (4, 5)
+Score: -600
+================================
+Turn Left
+Move Foward: (3, 5)
+Score: -610
+Perceive Breeze: (3, 5)
+Perceive Stench: (3, 5)
+Inference Wumpus: (2, 5)
+Inference not Wumpus: (2, 5)
+Inference Wumpus: (3, 6)
+Inference not Wumpus: (3, 6)
+Inference Wumpus: (3, 4)
+Inference not Wumpus: (3, 4)
+================================
+Turn Left
+Shoot Arrow: (2, 5)
+Score: -710
+================================
+Turn Up
+Shoot Arrow: (3, 6)
+Score: -810
+Kill Wumpus: (3, 6)
+Inference Pit: (2, 5)
+Detect Pit: (2, 5)
+Inference Pit: (3, 6)
+Inference not Pit
+Detect no Pit: (3, 6)
+Inference Pit: (3, 4)
+Inference not Pit
+Detect no Pit: (3, 4)
+================================
+Turn Up
+Move Foward: (3, 6)
+Score: -820
+================================
+Turn Left
+Move Foward: (2, 6)
+Score: -830
+Perceive Breeze: (2, 6)
+Perceive Stench: (2, 6)
+Inference Wumpus: (1, 6)
+Inference not Wumpus: (1, 6)
+Inference Wumpus: (2, 7)
+Inference not Wumpus: (2, 7)
+================================
+Turn Left
+Shoot Arrow: (1, 6)
+Score: -930
+================================
+Turn Up
+Shoot Arrow: (2, 7)
+Score: -1030
+Kill Wumpus: (2, 7)
+Inference Pit: (1, 6)
+Inference not Pit
+Inference Pit: (2, 7)
+Inference not Pit
+Detect no Pit: (2, 7)
+================================
+Turn Up
+Move Foward: (2, 7)
+Score: -1040
+================================
+Turn Left
+Move Foward: (1, 7)
+Score: -1050
+================================
+Turn Up
+Move Foward: (1, 8)
+Score: -1060
+================================
+Turn Right
+Move Foward: (2, 8)
+Score: -1070
+================================
+Turn Right
+Move Foward: (3, 8)
+Score: -1080
+================================
+Turn Right
+Move Foward: (4, 8)
+Score: -1090
+Perceive Breeze: (4, 8)
+Perceive Stench: (4, 8)
+Inference Wumpus: (4, 9)
+Inference not Wumpus: (4, 9)
+Inference Wumpus: (4, 7)
+Inference not Wumpus: (4, 7)
+================================
+Turn Up
+Shoot Arrow: (4, 9)
+Score: -1190
+Kill Wumpus: (4, 9)
+Inference Pit: (4, 9)
+Inference not Pit
+Detect no Pit: (4, 9)
+Inference Pit: (4, 7)
+Detect Pit: (4, 7)
+================================
+Turn Up
+Move Foward: (4, 9)
+Score: -1200
+Perceive Breeze: (4, 9)
+Inference Pit: (3, 9)
+Inference not Pit
+Detect no Pit: (3, 9)
+Inference Pit: (4, 10)
+Inference not Pit
+================================
+Turn Left
+Move Foward: (3, 9)
+Score: -1210
+================================
+Turn Left
+Move Foward: (2, 9)
+Score: -1220
+================================
+Turn Left
+Move Foward: (1, 9)
+Score: -1230
+================================
+Turn Up
+Move Foward: (1, 10)
+Score: -1240
+Grab Gold
+Score: -1140
+================================
+Turn Right
+Move Foward: (2, 10)
+Score: -1150
+================================
+Turn Right
+Move Foward: (3, 10)
+Score: -1160
+================================
+Turn Right
+Move Foward: (4, 10)
+Score: -1170
+Grab Gold
+Score: -1070
+================================
+Turn Left
+Move Foward: (3, 10)
+Score: -1080
+================================
+Turn Down
+Move Foward: (3, 9)
+Score: -1090
+================================
+Turn Down
+Move Foward: (3, 8)
+Score: -1100
+================================
+Turn Down
+Move Foward: (3, 7)
+Score: -1110
+Perceive Breeze: (3, 7)
+================================
+Turn Up
+Move Foward: (3, 8)
+Score: -1120
+================================
+Turn Left
+Move Foward: (2, 8)
+Score: -1130
+================================
+Turn Left
+Move Foward: (1, 8)
+Score: -1140
+================================
+Turn Down
+Move Foward: (1, 7)
+Score: -1150
+================================
+Turn Down
+Move Foward: (1, 6)
+Score: -1160
+================================
+Turn Down
+Move Foward: (1, 5)
+Score: -1170
+Perceive Breeze: (1, 5)
+Inference Pit: (1, 4)
+Inference not Pit
+================================
+Turn Up
+Move Foward: (1, 6)
+Score: -1180
+================================
+Turn Right
+Move Foward: (2, 6)
+Score: -1190
+================================
+Turn Right
+Move Foward: (3, 6)
+Score: -1200
+================================
+Turn Right
+Move Foward: (4, 6)
+Score: -1210
+Perceive Breeze: (4, 6)
+Inference Pit: (5, 6)
+Inference not Pit
+================================
+Turn Left
+Move Foward: (3, 6)
+Score: -1220
+================================
+Turn Down
+Move Foward: (3, 5)
+Score: -1230
+================================
+Turn Down
+Move Foward: (3, 4)
+Score: -1240
+Grab Gold
+Score: -1140
+================================
+Turn Left
+Move Foward: (2, 4)
+Score: -1150
+Perceive Breeze: (2, 4)
+Perceive Stench: (2, 4)
+Inference Wumpus: (1, 4)
+Inference not Wumpus: (1, 4)
+Detect no Wumpus: (1, 4)
+Inference Wumpus: (2, 3)
+Inference not Wumpus: (2, 3)
+================================
+Turn Left
+Shoot Arrow: (1, 4)
+Score: -1250
+================================
+Turn Down
+Shoot Arrow: (2, 3)
+Score: -1350
+Kill Wumpus: (2, 3)
+Inference Pit: (1, 4)
+Inference not Pit
+Inference Pit: (2, 3)
+Inference not Pit
+Detect no Pit: (2, 3)
+================================
+Turn Down
+Move Foward: (2, 3)
+Score: -1360
+================================
+Turn Left
+Move Foward: (1, 3)
+Score: -1370
+================================
+Turn Up
+Move Foward: (1, 4)
+Score: -1380
+Grab Gold
+Score: -1280
+================================
+Turn Down
+Move Foward: (1, 3)
+Score: -1290
+================================
+Turn Down
+Move Foward: (1, 2)
+Score: -1300
+================================
+Turn Right
+Move Foward: (2, 2)
+Score: -1310
+Perceive Stench: (2, 2)
+Inference Wumpus: (3, 2)
+Inference not Wumpus: (3, 2)
+Inference Wumpus: (2, 1)
+Inference not Wumpus: (2, 1)
+================================
+Turn Right
+Shoot Arrow: (3, 2)
+Score: -1410
+================================
+Turn Down
+Shoot Arrow: (2, 1)
+Score: -1510
+Kill Wumpus: (2, 1)
+================================
+Turn Down
+Move Foward: (2, 1)
+Score: -1520
+================================
+Turn Left
+Move Foward: (1, 1)
+Score: -1530
+================================
+Turn Right
+Move Foward: (2, 1)
+Score: -1540
+================================
+Turn Right
+Move Foward: (3, 1)
+Score: -1550
+================================
+Turn Right
+Move Foward: (4, 1)
+Score: -1560
+================================
+Turn Right
+Move Foward: (5, 1)
+Score: -1570
+Perceive Breeze: (5, 1)
+Inference Pit: (6, 1)
+Inference not Pit
+Inference Pit: (5, 2)
+Inference not Pit
+================================
+Turn Left
+Move Foward: (4, 1)
+Score: -1580
+================================
+Turn Up
+Move Foward: (4, 2)
+Score: -1590
+================================
+Turn Left
+Move Foward: (3, 2)
+Score: -1600
+================================
+Turn Up
+Move Foward: (3, 3)
+Score: -1610
+================================
+Turn Right
+Move Foward: (4, 3)
+Score: -1620
+================================
+Turn Right
+Move Foward: (5, 3)
+Score: -1630
+================================
+Turn Right
+Move Foward: (6, 3)
+Score: -1640
+================================
+Turn Right
+Move Foward: (7, 3)
+Score: -1650
+Perceive Breeze: (7, 3)
+Inference Pit: (8, 3)
+Inference not Pit
+Detect no Pit: (8, 3)
+Inference Pit: (7, 2)
+Detect Pit: (7, 2)
+================================
+Turn Right
+Move Foward: (8, 3)
+Score: -1660
+================================
+Turn Right
+Move Foward: (9, 3)
+Score: -1670
+================================
+Turn Right
+Move Foward: (10, 3)
+Score: -1680
+Perceive Stench: (10, 3)
+Inference Wumpus: (10, 4)
+Inference not Wumpus: (10, 4)
+Detect no Wumpus: (10, 4)
+Inference Wumpus: (10, 2)
+Detect Wumpus: (10, 2)
+Shoot Arrow
+Score: -1780
+Kill Wumpus: (10, 2)
+================================
+Turn Up
+Move Foward: (10, 4)
+Score: -1790
+================================
+Turn Down
+Move Foward: (10, 3)
+Score: -1800
+================================
+Turn Down
+Move Foward: (10, 2)
+Score: -1810
+================================
+Turn Left
+Move Foward: (9, 2)
+Score: -1820
+================================
+Turn Left
+Move Foward: (8, 2)
+Score: -1830
+Perceive Breeze: (8, 2)
+Inference Pit: (8, 1)
+Inference not Pit
+================================
+Turn Right
+Move Foward: (9, 2)
+Score: -1840
+================================
+Turn Down
+Move Foward: (9, 1)
+Score: -1850
+================================
+Turn Left
+Move Foward: (8, 1)
+Score: -1860
+================================
+Turn Left
+Move Foward: (7, 1)
+Score: -1870
+Perceive Breeze: (7, 1)
+Inference Pit: (6, 1)
+Detect Pit: (6, 1)
+================================
+Turn Right
+Move Foward: (8, 1)
+Score: -1880
+================================
+Turn Right
+Move Foward: (9, 1)
+Score: -1890
+================================
+Turn Right
+Move Foward: (10, 1)
+Score: -1900
+================================
+Turn Up
+Move Foward: (10, 2)
+Score: -1910
+================================
+Turn Up
+Move Foward: (10, 3)
+Score: -1920
+================================
+Turn Left
+Move Foward: (9, 3)
+Score: -1930
+================================
+Turn Left
+Move Foward: (8, 3)
+Score: -1940
+================================
+Turn Left
+Move Foward: (7, 3)
+Score: -1950
+================================
+Turn Left
+Move Foward: (6, 3)
+Score: -1960
+================================
+Turn Down
+Move Foward: (6, 2)
+Score: -1970
+Perceive Breeze: (6, 2)
+Inference Pit: (5, 2)
+Inference not Pit
+Detect no Pit: (5, 2)
+================================
+Turn Left
+Move Foward: (5, 2)
+Score: -1980
+================================
+Turn Left
+Move Foward: (4, 2)
+Score: -1990
+================================
+Turn Down
+Move Foward: (4, 1)
+Score: -2000
+================================
+Turn Left
+Move Foward: (3, 1)
+Score: -2010
+================================
+Turn Left
+Move Foward: (2, 1)
+Score: -2020
+================================
+Turn Up
+Move Foward: (2, 2)
+Score: -2030
+================================
+Turn Up
+Move Foward: (2, 3)
+Score: -2040
+================================
+Turn Up
+Move Foward: (2, 4)
+Score: -2050
+================================
+Turn Right
+Move Foward: (3, 4)
+Score: -2060
+================================
+Turn Up
+Move Foward: (3, 5)
+Score: -2070
+================================
+Turn Right
+Move Foward: (4, 5)
+Score: -2080
+================================
+Turn Right
+Move Foward: (5, 5)
+Score: -2090
+Perceive Breeze: (5, 5)
+Inference Pit: (5, 6)
+Detect Pit: (5, 6)
+================================
+Turn Down
+Move Foward: (5, 4)
+Score: -2100
+================================
+Turn Right
+Move Foward: (6, 4)
+Score: -2110
+================================
+Turn Right
+Move Foward: (7, 4)
+Score: -2120
+================================
+Turn Up
+Move Foward: (7, 5)
+Score: -2130
+================================
+Turn Right
+Move Foward: (8, 5)
+Score: -2140
+Climb Out
+Score: -2130

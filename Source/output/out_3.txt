@@ -1,0 +1,980 @@
+================================
+Turn Right
+Move Foward: (2, 1)
+Score: -10
+Perceive Stench: (2, 1)
+Inference Wumpus: (3, 1)
+Inference not Wumpus: (3, 1)
+Inference Wumpus: (2, 2)
+Inference not Wumpus: (2, 2)
+================================
+Turn Right
+Shoot Arrow: (3, 1)
+Score: -110
+================================
+Turn Up
+Shoot Arrow: (2, 2)
+Score: -210
+Kill Wumpus: (2, 2)
+================================
+Turn Up
+Move Foward: (2, 2)
+Score: -220
+Perceive Stench: (2, 2)
+Inference Wumpus: (1, 2)
+Inference not Wumpus: (1, 2)
+Detect no Wumpus: (1, 2)
+Inference Wumpus: (3, 2)
+Inference not Wumpus: (3, 2)
+Inference Wumpus: (2, 3)
+Inference not Wumpus: (2, 3)
+================================
+Turn Left
+Shoot Arrow: (1, 2)
+Score: -320
+================================
+Turn Right
+Shoot Arrow: (3, 2)
+Score: -420
+Kill Wumpus: (3, 2)
+================================
+Turn Up
+Shoot Arrow: (2, 3)
+Score: -520
+Kill Wumpus: (2, 3)
+================================
+Turn Up
+Move Foward: (2, 3)
+Score: -530
+Perceive Stench: (2, 3)
+Inference Wumpus: (1, 3)
+Inference not Wumpus: (1, 3)
+Inference Wumpus: (3, 3)
+Inference not Wumpus: (3, 3)
+Inference Wumpus: (2, 4)
+Inference not Wumpus: (2, 4)
+================================
+Turn Left
+Shoot Arrow: (1, 3)
+Score: -630
+================================
+Turn Right
+Shoot Arrow: (3, 3)
+Score: -730
+================================
+Turn Up
+Shoot Arrow: (2, 4)
+Score: -830
+Kill Wumpus: (2, 4)
+================================
+Turn Up
+Move Foward: (2, 4)
+Score: -840
+Perceive Stench: (2, 4)
+Inference Wumpus: (1, 4)
+Inference not Wumpus: (1, 4)
+Inference Wumpus: (3, 4)
+Inference not Wumpus: (3, 4)
+Inference Wumpus: (2, 5)
+Inference not Wumpus: (2, 5)
+================================
+Turn Left
+Shoot Arrow: (1, 4)
+Score: -940
+================================
+Turn Right
+Shoot Arrow: (3, 4)
+Score: -1040
+================================
+Turn Up
+Shoot Arrow: (2, 5)
+Score: -1140
+Kill Wumpus: (2, 5)
+================================
+Turn Up
+Move Foward: (2, 5)
+Score: -1150
+Perceive Stench: (2, 5)
+Inference Wumpus: (1, 5)
+Inference not Wumpus: (1, 5)
+Inference Wumpus: (3, 5)
+Inference not Wumpus: (3, 5)
+Inference Wumpus: (2, 6)
+Inference not Wumpus: (2, 6)
+================================
+Turn Left
+Shoot Arrow: (1, 5)
+Score: -1250
+================================
+Turn Right
+Shoot Arrow: (3, 5)
+Score: -1350
+================================
+Turn Up
+Shoot Arrow: (2, 6)
+Score: -1450
+Kill Wumpus: (2, 6)
+================================
+Turn Up
+Move Foward: (2, 6)
+Score: -1460
+Perceive Stench: (2, 6)
+Inference Wumpus: (1, 6)
+Inference not Wumpus: (1, 6)
+Inference Wumpus: (3, 6)
+Inference not Wumpus: (3, 6)
+Inference Wumpus: (2, 7)
+Inference not Wumpus: (2, 7)
+================================
+Turn Left
+Shoot Arrow: (1, 6)
+Score: -1560
+================================
+Turn Right
+Shoot Arrow: (3, 6)
+Score: -1660
+================================
+Turn Up
+Shoot Arrow: (2, 7)
+Score: -1760
+Kill Wumpus: (2, 7)
+================================
+Turn Up
+Move Foward: (2, 7)
+Score: -1770
+Perceive Stench: (2, 7)
+Inference Wumpus: (1, 7)
+Inference not Wumpus: (1, 7)
+Inference Wumpus: (3, 7)
+Inference not Wumpus: (3, 7)
+Inference Wumpus: (2, 8)
+Inference not Wumpus: (2, 8)
+================================
+Turn Left
+Shoot Arrow: (1, 7)
+Score: -1870
+================================
+Turn Right
+Shoot Arrow: (3, 7)
+Score: -1970
+================================
+Turn Up
+Shoot Arrow: (2, 8)
+Score: -2070
+Kill Wumpus: (2, 8)
+================================
+Turn Up
+Move Foward: (2, 8)
+Score: -2080
+Perceive Stench: (2, 8)
+Inference Wumpus: (1, 8)
+Inference not Wumpus: (1, 8)
+Inference Wumpus: (3, 8)
+Inference not Wumpus: (3, 8)
+Inference Wumpus: (2, 9)
+Inference not Wumpus: (2, 9)
+================================
+Turn Left
+Shoot Arrow: (1, 8)
+Score: -2180
+================================
+Turn Right
+Shoot Arrow: (3, 8)
+Score: -2280
+Kill Wumpus: (3, 8)
+================================
+Turn Right
+Move Foward: (3, 8)
+Score: -2290
+Perceive Stench: (3, 8)
+Inference Wumpus: (4, 8)
+Inference not Wumpus: (4, 8)
+Inference Wumpus: (3, 9)
+Inference not Wumpus: (3, 9)
+Inference Wumpus: (3, 7)
+Inference not Wumpus: (3, 7)
+================================
+Turn Right
+Shoot Arrow: (4, 8)
+Score: -2390
+Kill Wumpus: (4, 8)
+================================
+Turn Right
+Move Foward: (4, 8)
+Score: -2400
+Perceive Stench: (4, 8)
+Inference Wumpus: (5, 8)
+Inference not Wumpus: (5, 8)
+Inference Wumpus: (4, 9)
+Inference not Wumpus: (4, 9)
+Inference Wumpus: (4, 7)
+Inference not Wumpus: (4, 7)
+================================
+Turn Right
+Shoot Arrow: (5, 8)
+Score: -2500
+Kill Wumpus: (5, 8)
+================================
+Turn Right
+Move Foward: (5, 8)
+Score: -2510
+Perceive Stench: (5, 8)
+Inference Wumpus: (6, 8)
+Inference not Wumpus: (6, 8)
+Inference Wumpus: (5, 9)
+Inference not Wumpus: (5, 9)
+Inference Wumpus: (5, 7)
+Inference not Wumpus: (5, 7)
+================================
+Turn Right
+Shoot Arrow: (6, 8)
+Score: -2610
+Kill Wumpus: (6, 8)
+================================
+Turn Right
+Move Foward: (6, 8)
+Score: -2620
+Perceive Stench: (6, 8)
+Inference Wumpus: (7, 8)
+Inference not Wumpus: (7, 8)
+Inference Wumpus: (6, 9)
+Inference not Wumpus: (6, 9)
+Inference Wumpus: (6, 7)
+Inference not Wumpus: (6, 7)
+================================
+Turn Right
+Shoot Arrow: (7, 8)
+Score: -2720
+Kill Wumpus: (7, 8)
+================================
+Turn Right
+Move Foward: (7, 8)
+Score: -2730
+Perceive Stench: (7, 8)
+Inference Wumpus: (8, 8)
+Inference not Wumpus: (8, 8)
+Inference Wumpus: (7, 9)
+Inference not Wumpus: (7, 9)
+Inference Wumpus: (7, 7)
+Inference not Wumpus: (7, 7)
+================================
+Turn Right
+Shoot Arrow: (8, 8)
+Score: -2830
+Kill Wumpus: (8, 8)
+================================
+Turn Right
+Move Foward: (8, 8)
+Score: -2840
+================================
+Turn Right
+Move Foward: (9, 8)
+Score: -2850
+Perceive Stench: (9, 8)
+Inference Wumpus: (10, 8)
+Inference not Wumpus: (10, 8)
+Inference Wumpus: (9, 9)
+Inference not Wumpus: (9, 9)
+Inference Wumpus: (9, 7)
+Inference not Wumpus: (9, 7)
+================================
+Turn Right
+Shoot Arrow: (10, 8)
+Score: -2950
+Kill Wumpus: (10, 8)
+================================
+Turn Right
+Move Foward: (10, 8)
+Score: -2960
+Perceive Stench: (10, 8)
+Inference Wumpus: (10, 9)
+Inference not Wumpus: (10, 9)
+Inference Wumpus: (10, 7)
+Inference not Wumpus: (10, 7)
+================================
+Turn Up
+Shoot Arrow: (10, 9)
+Score: -3060
+Kill Wumpus: (10, 9)
+================================
+Turn Down
+Shoot Arrow: (10, 7)
+Score: -3160
+Kill Wumpus: (10, 7)
+================================
+Turn Down
+Move Foward: (10, 7)
+Score: -3170
+Perceive Stench: (10, 7)
+Inference Wumpus: (9, 7)
+Inference not Wumpus: (9, 7)
+Inference Wumpus: (10, 6)
+Inference not Wumpus: (10, 6)
+================================
+Turn Left
+Shoot Arrow: (9, 7)
+Score: -3270
+================================
+Turn Down
+Shoot Arrow: (10, 6)
+Score: -3370
+Kill Wumpus: (10, 6)
+================================
+Turn Down
+Move Foward: (10, 6)
+Score: -3380
+Perceive Stench: (10, 6)
+Inference Wumpus: (9, 6)
+Inference not Wumpus: (9, 6)
+Inference Wumpus: (10, 5)
+Inference not Wumpus: (10, 5)
+================================
+Turn Left
+Shoot Arrow: (9, 6)
+Score: -3480
+================================
+Turn Down
+Shoot Arrow: (10, 5)
+Score: -3580
+Kill Wumpus: (10, 5)
+================================
+Turn Down
+Move Foward: (10, 5)
+Score: -3590
+Perceive Stench: (10, 5)
+Inference Wumpus: (9, 5)
+Inference not Wumpus: (9, 5)
+Inference Wumpus: (10, 4)
+Inference not Wumpus: (10, 4)
+================================
+Turn Left
+Shoot Arrow: (9, 5)
+Score: -3690
+================================
+Turn Down
+Shoot Arrow: (10, 4)
+Score: -3790
+Kill Wumpus: (10, 4)
+================================
+Turn Down
+Move Foward: (10, 4)
+Score: -3800
+Perceive Stench: (10, 4)
+Inference Wumpus: (9, 4)
+Inference not Wumpus: (9, 4)
+Inference Wumpus: (10, 3)
+Inference not Wumpus: (10, 3)
+================================
+Turn Left
+Shoot Arrow: (9, 4)
+Score: -3900
+================================
+Turn Down
+Shoot Arrow: (10, 3)
+Score: -4000
+Kill Wumpus: (10, 3)
+================================
+Turn Down
+Move Foward: (10, 3)
+Score: -4010
+Perceive Stench: (10, 3)
+Inference Wumpus: (9, 3)
+Inference not Wumpus: (9, 3)
+Inference Wumpus: (10, 2)
+Inference not Wumpus: (10, 2)
+================================
+Turn Left
+Shoot Arrow: (9, 3)
+Score: -4110
+================================
+Turn Down
+Shoot Arrow: (10, 2)
+Score: -4210
+Kill Wumpus: (10, 2)
+================================
+Turn Down
+Move Foward: (10, 2)
+Score: -4220
+Perceive Stench: (10, 2)
+Inference Wumpus: (9, 2)
+Inference not Wumpus: (9, 2)
+Inference Wumpus: (10, 1)
+Inference not Wumpus: (10, 1)
+================================
+Turn Left
+Shoot Arrow: (9, 2)
+Score: -4320
+Kill Wumpus: (9, 2)
+================================
+Turn Left
+Move Foward: (9, 2)
+Score: -4330
+Perceive Stench: (9, 2)
+Inference Wumpus: (8, 2)
+Inference not Wumpus: (8, 2)
+Inference Wumpus: (9, 3)
+Inference not Wumpus: (9, 3)
+Inference Wumpus: (9, 1)
+Inference not Wumpus: (9, 1)
+================================
+Turn Left
+Shoot Arrow: (8, 2)
+Score: -4430
+Kill Wumpus: (8, 2)
+================================
+Turn Left
+Move Foward: (8, 2)
+Score: -4440
+Perceive Stench: (8, 2)
+Inference Wumpus: (7, 2)
+Inference not Wumpus: (7, 2)
+Inference Wumpus: (8, 3)
+Inference not Wumpus: (8, 3)
+Inference Wumpus: (8, 1)
+Inference not Wumpus: (8, 1)
+================================
+Turn Left
+Shoot Arrow: (7, 2)
+Score: -4540
+Kill Wumpus: (7, 2)
+================================
+Turn Left
+Move Foward: (7, 2)
+Score: -4550
+Perceive Stench: (7, 2)
+Inference Wumpus: (6, 2)
+Inference not Wumpus: (6, 2)
+Inference Wumpus: (7, 3)
+Inference not Wumpus: (7, 3)
+Inference Wumpus: (7, 1)
+Inference not Wumpus: (7, 1)
+================================
+Turn Left
+Shoot Arrow: (6, 2)
+Score: -4650
+Kill Wumpus: (6, 2)
+================================
+Turn Left
+Move Foward: (6, 2)
+Score: -4660
+Perceive Stench: (6, 2)
+Inference Wumpus: (5, 2)
+Inference not Wumpus: (5, 2)
+Inference Wumpus: (6, 3)
+Inference not Wumpus: (6, 3)
+Inference Wumpus: (6, 1)
+Inference not Wumpus: (6, 1)
+================================
+Turn Left
+Shoot Arrow: (5, 2)
+Score: -4760
+Kill Wumpus: (5, 2)
+================================
+Turn Left
+Move Foward: (5, 2)
+Score: -4770
+Perceive Stench: (5, 2)
+Inference Wumpus: (4, 2)
+Inference not Wumpus: (4, 2)
+Inference Wumpus: (5, 3)
+Inference not Wumpus: (5, 3)
+Inference Wumpus: (5, 1)
+Inference not Wumpus: (5, 1)
+================================
+Turn Left
+Shoot Arrow: (4, 2)
+Score: -4870
+Kill Wumpus: (4, 2)
+================================
+Turn Left
+Move Foward: (4, 2)
+Score: -4880
+================================
+Turn Left
+Move Foward: (3, 2)
+Score: -4890
+================================
+Turn Up
+Move Foward: (3, 3)
+Score: -4900
+================================
+Turn Right
+Move Foward: (4, 3)
+Score: -4910
+================================
+Turn Right
+Move Foward: (5, 3)
+Score: -4920
+================================
+Turn Right
+Move Foward: (6, 3)
+Score: -4930
+================================
+Turn Right
+Move Foward: (7, 3)
+Score: -4940
+================================
+Turn Right
+Move Foward: (8, 3)
+Score: -4950
+================================
+Turn Right
+Move Foward: (9, 3)
+Score: -4960
+================================
+Turn Up
+Move Foward: (9, 4)
+Score: -4970
+================================
+Turn Left
+Move Foward: (8, 4)
+Score: -4980
+================================
+Turn Left
+Move Foward: (7, 4)
+Score: -4990
+================================
+Turn Left
+Move Foward: (6, 4)
+Score: -5000
+================================
+Turn Left
+Move Foward: (5, 4)
+Score: -5010
+================================
+Turn Left
+Move Foward: (4, 4)
+Score: -5020
+================================
+Turn Left
+Move Foward: (3, 4)
+Score: -5030
+================================
+Turn Up
+Move Foward: (3, 5)
+Score: -5040
+================================
+Turn Right
+Move Foward: (4, 5)
+Score: -5050
+================================
+Turn Right
+Move Foward: (5, 5)
+Score: -5060
+Grab Gold
+Score: -4960
+================================
+Turn Right
+Move Foward: (6, 5)
+Score: -4970
+================================
+Turn Right
+Move Foward: (7, 5)
+Score: -4980
+================================
+Turn Right
+Move Foward: (8, 5)
+Score: -4990
+================================
+Turn Right
+Move Foward: (9, 5)
+Score: -5000
+================================
+Turn Up
+Move Foward: (9, 6)
+Score: -5010
+================================
+Turn Left
+Move Foward: (8, 6)
+Score: -5020
+================================
+Turn Left
+Move Foward: (7, 6)
+Score: -5030
+================================
+Turn Left
+Move Foward: (6, 6)
+Score: -5040
+================================
+Turn Left
+Move Foward: (5, 6)
+Score: -5050
+================================
+Turn Left
+Move Foward: (4, 6)
+Score: -5060
+================================
+Turn Left
+Move Foward: (3, 6)
+Score: -5070
+================================
+Turn Up
+Move Foward: (3, 7)
+Score: -5080
+================================
+Turn Right
+Move Foward: (4, 7)
+Score: -5090
+================================
+Turn Right
+Move Foward: (5, 7)
+Score: -5100
+================================
+Turn Right
+Move Foward: (6, 7)
+Score: -5110
+================================
+Turn Right
+Move Foward: (7, 7)
+Score: -5120
+================================
+Turn Right
+Move Foward: (8, 7)
+Score: -5130
+================================
+Turn Right
+Move Foward: (9, 7)
+Score: -5140
+================================
+Turn Down
+Move Foward: (9, 6)
+Score: -5150
+================================
+Turn Down
+Move Foward: (9, 5)
+Score: -5160
+================================
+Turn Down
+Move Foward: (9, 4)
+Score: -5170
+================================
+Turn Down
+Move Foward: (9, 3)
+Score: -5180
+================================
+Turn Left
+Move Foward: (8, 3)
+Score: -5190
+================================
+Turn Left
+Move Foward: (7, 3)
+Score: -5200
+================================
+Turn Left
+Move Foward: (6, 3)
+Score: -5210
+================================
+Turn Left
+Move Foward: (5, 3)
+Score: -5220
+================================
+Turn Left
+Move Foward: (4, 3)
+Score: -5230
+================================
+Turn Left
+Move Foward: (3, 3)
+Score: -5240
+================================
+Turn Down
+Move Foward: (3, 2)
+Score: -5250
+================================
+Turn Down
+Move Foward: (3, 1)
+Score: -5260
+================================
+Turn Right
+Move Foward: (4, 1)
+Score: -5270
+================================
+Turn Right
+Move Foward: (5, 1)
+Score: -5280
+================================
+Turn Right
+Move Foward: (6, 1)
+Score: -5290
+================================
+Turn Right
+Move Foward: (7, 1)
+Score: -5300
+================================
+Turn Right
+Move Foward: (8, 1)
+Score: -5310
+================================
+Turn Right
+Move Foward: (9, 1)
+Score: -5320
+================================
+Turn Right
+Move Foward: (10, 1)
+Score: -5330
+================================
+Turn Up
+Move Foward: (10, 2)
+Score: -5340
+================================
+Turn Up
+Move Foward: (10, 3)
+Score: -5350
+================================
+Turn Up
+Move Foward: (10, 4)
+Score: -5360
+================================
+Turn Up
+Move Foward: (10, 5)
+Score: -5370
+================================
+Turn Up
+Move Foward: (10, 6)
+Score: -5380
+================================
+Turn Up
+Move Foward: (10, 7)
+Score: -5390
+================================
+Turn Up
+Move Foward: (10, 8)
+Score: -5400
+================================
+Turn Up
+Move Foward: (10, 9)
+Score: -5410
+Perceive Stench: (10, 9)
+Inference Wumpus: (9, 9)
+Inference not Wumpus: (9, 9)
+Inference Wumpus: (10, 10)
+Inference not Wumpus: (10, 10)
+================================
+Turn Left
+Shoot Arrow: (9, 9)
+Score: -5510
+================================
+Turn Up
+Shoot Arrow: (10, 10)
+Score: -5610
+Kill Wumpus: (10, 10)
+================================
+Turn Up
+Move Foward: (10, 10)
+Score: -5620
+Perceive Stench: (10, 10)
+Inference Wumpus: (9, 10)
+Inference not Wumpus: (9, 10)
+================================
+Turn Left
+Shoot Arrow: (9, 10)
+Score: -5720
+Kill Wumpus: (9, 10)
+================================
+Turn Left
+Move Foward: (9, 10)
+Score: -5730
+Perceive Stench: (9, 10)
+Inference Wumpus: (8, 10)
+Inference not Wumpus: (8, 10)
+Inference Wumpus: (9, 9)
+Inference not Wumpus: (9, 9)
+================================
+Turn Left
+Shoot Arrow: (8, 10)
+Score: -5830
+Kill Wumpus: (8, 10)
+================================
+Turn Left
+Move Foward: (8, 10)
+Score: -5840
+Perceive Stench: (8, 10)
+Inference Wumpus: (7, 10)
+Inference not Wumpus: (7, 10)
+Inference Wumpus: (8, 9)
+Inference not Wumpus: (8, 9)
+Detect no Wumpus: (8, 9)
+================================
+Turn Left
+Shoot Arrow: (7, 10)
+Score: -5940
+Kill Wumpus: (7, 10)
+================================
+Turn Left
+Move Foward: (7, 10)
+Score: -5950
+Perceive Stench: (7, 10)
+Inference Wumpus: (6, 10)
+Inference not Wumpus: (6, 10)
+Inference Wumpus: (7, 9)
+Inference not Wumpus: (7, 9)
+================================
+Turn Left
+Shoot Arrow: (6, 10)
+Score: -6050
+Kill Wumpus: (6, 10)
+================================
+Turn Left
+Move Foward: (6, 10)
+Score: -6060
+Perceive Stench: (6, 10)
+Inference Wumpus: (5, 10)
+Inference not Wumpus: (5, 10)
+Inference Wumpus: (6, 9)
+Inference not Wumpus: (6, 9)
+================================
+Turn Left
+Shoot Arrow: (5, 10)
+Score: -6160
+Kill Wumpus: (5, 10)
+================================
+Turn Left
+Move Foward: (5, 10)
+Score: -6170
+Perceive Stench: (5, 10)
+Inference Wumpus: (4, 10)
+Inference not Wumpus: (4, 10)
+Inference Wumpus: (5, 9)
+Inference not Wumpus: (5, 9)
+================================
+Turn Left
+Shoot Arrow: (4, 10)
+Score: -6270
+Kill Wumpus: (4, 10)
+================================
+Turn Left
+Move Foward: (4, 10)
+Score: -6280
+Perceive Stench: (4, 10)
+Inference Wumpus: (3, 10)
+Inference not Wumpus: (3, 10)
+Inference Wumpus: (4, 9)
+Inference not Wumpus: (4, 9)
+================================
+Turn Left
+Shoot Arrow: (3, 10)
+Score: -6380
+Kill Wumpus: (3, 10)
+================================
+Turn Left
+Move Foward: (3, 10)
+Score: -6390
+Perceive Stench: (3, 10)
+Inference Wumpus: (2, 10)
+Inference not Wumpus: (2, 10)
+Inference Wumpus: (3, 9)
+Inference not Wumpus: (3, 9)
+================================
+Turn Left
+Shoot Arrow: (2, 10)
+Score: -6490
+Kill Wumpus: (2, 10)
+================================
+Turn Left
+Move Foward: (2, 10)
+Score: -6500
+================================
+Turn Left
+Move Foward: (1, 10)
+Score: -6510
+================================
+Turn Down
+Move Foward: (1, 9)
+Score: -6520
+================================
+Turn Right
+Move Foward: (2, 9)
+Score: -6530
+================================
+Turn Right
+Move Foward: (3, 9)
+Score: -6540
+================================
+Turn Right
+Move Foward: (4, 9)
+Score: -6550
+================================
+Turn Right
+Move Foward: (5, 9)
+Score: -6560
+================================
+Turn Right
+Move Foward: (6, 9)
+Score: -6570
+================================
+Turn Right
+Move Foward: (7, 9)
+Score: -6580
+================================
+Turn Right
+Move Foward: (8, 9)
+Score: -6590
+================================
+Turn Right
+Move Foward: (9, 9)
+Score: -6600
+================================
+Turn Left
+Move Foward: (8, 9)
+Score: -6610
+================================
+Turn Left
+Move Foward: (7, 9)
+Score: -6620
+================================
+Turn Left
+Move Foward: (6, 9)
+Score: -6630
+================================
+Turn Left
+Move Foward: (5, 9)
+Score: -6640
+================================
+Turn Left
+Move Foward: (4, 9)
+Score: -6650
+================================
+Turn Left
+Move Foward: (3, 9)
+Score: -6660
+================================
+Turn Left
+Move Foward: (2, 9)
+Score: -6670
+================================
+Turn Left
+Move Foward: (1, 9)
+Score: -6680
+================================
+Turn Down
+Move Foward: (1, 8)
+Score: -6690
+================================
+Turn Down
+Move Foward: (1, 7)
+Score: -6700
+================================
+Turn Down
+Move Foward: (1, 6)
+Score: -6710
+================================
+Turn Down
+Move Foward: (1, 5)
+Score: -6720
+================================
+Turn Down
+Move Foward: (1, 4)
+Score: -6730
+================================
+Turn Down
+Move Foward: (1, 3)
+Score: -6740
+================================
+Turn Down
+Move Foward: (1, 2)
+Score: -6750
+================================
+Turn Down
+Move Foward: (1, 1)
+Score: -6760
+Climb Out
+Score: -6750
